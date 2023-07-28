@@ -1,7 +1,7 @@
 import React from "react";
 import "./Portfolio.css";
 import IMG1 from "../../assets/img1.png";
-import IMG2 from "../../assets/img2.png";
+import IMG2 from "../../assets/project1.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
@@ -17,7 +17,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} />
           </div>
-          <h3>React Pixabay Gallery</h3>
+          <h3>Ecommerce</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/kisan977/pixbay_gallery"

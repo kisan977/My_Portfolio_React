@@ -43,7 +43,7 @@ const Services = () => {
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>WEB DEVELOPMENT</h3>
+            <h3>WEB/APP DEVELOPMENT</h3>
           </div>
           <ul className="service__list">
             <li>
